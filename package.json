@@ -3,16 +3,15 @@
   "version": "0.1.0",
   "private": true,
   "scripts": {
-    "dev": "pnpm -C ../../packages/remark-plugins build && pnpm -C ../../packages/rehype-plugins build && next dev",
-    "build": "pnpm -C ../../packages/remark-plugins build && pnpm -C ../../packages/rehype-plugins build && next build",
+    "dev": "next dev",
+    "build": "next build",
     "start": "next start",
     "lint": "next lint",
     "lint:all": "concurrently \"yarn:lint\" \"yarn:lint:types\" \"yarn:lint:style\"",
     "lint:types": "tsc --noEmit",
     "lint:style": "prettier --check .",
     "analyze": "cross-env ANALYZE=true yarn build",
-    "postbuild": "next-sitemap",
-    "resume:pdf": "cross-env RESUME_URL=http://localhost:3000/work/resume node --experimental-specifier-resolution=node scripts/generate-resume-pdf.mjs"
+    "postbuild": "next-sitemap"
   },
   "dependencies": {
     "@headlessui/react": "^1.7.7",

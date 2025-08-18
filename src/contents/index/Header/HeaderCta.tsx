@@ -37,7 +37,6 @@ function ButtonResume() {
       href="/assets/sharmake-hassan-said-resume.pdf"
       download="sharmake-hassan-said-resume.pdf"
       className={clsx('button button--ghost px-2', 'md:button--big md:px-2')}
-      title="Download Resume (PDF)"
     >
       <DocumentIcon className={clsx('h-5 w-5')} />
       RESUME

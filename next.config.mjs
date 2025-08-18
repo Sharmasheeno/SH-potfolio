@@ -1,7 +1,7 @@
 import bundeAnalyzer from '@next/bundle-analyzer';
 import nextMDX from '@next/mdx';
-import rehypePlugins from '../../packages/rehype-plugins/dist/index.mjs';
-import remarkPlugins from '../../packages/remark-plugins/dist/index.mjs';
+import rehypePlugins from 'rehype-plugins';
+import remarkPlugins from 'remark-plugins';
 
 /** @type {import('next').NextConfig} */
 const nextConfig = {

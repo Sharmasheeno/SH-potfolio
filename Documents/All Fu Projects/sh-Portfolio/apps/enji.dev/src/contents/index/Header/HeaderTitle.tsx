@@ -91,10 +91,12 @@ function HeaderTitle() {
               'dark:text-slate-300'
             )}
           >
-            Frontend and Mobile Developer{" "}
+            Frontend and Mobile Developer{' '}
           </strong>{' '}
           who loves creating intuitive,{' '}
-          <span className={clsx('block')}>fully functional, clean and modern UI design.</span>
+          <span className={clsx('block')}>
+            fully functional, clean and modern UI design.
+          </span>
         </m.h1>
       </span>
     </div>

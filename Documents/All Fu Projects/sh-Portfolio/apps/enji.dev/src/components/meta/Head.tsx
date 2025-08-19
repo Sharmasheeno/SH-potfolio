@@ -27,7 +27,10 @@ function Head({
     <NextHead>
       <title>{htmlTitle}</title>
       <meta name="description" content={description} />
-      <meta name="keywords" content="Sharmake Hassan, Sharma dev, Front-End, Mobile, Developer" />
+      <meta
+        name="keywords"
+        content="Sharmake Hassan, Sharma dev, Front-End, Mobile, Developer"
+      />
       <link rel="icon" href="/favicon.ico" />
 
       {/* seo */}

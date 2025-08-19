@@ -65,7 +65,7 @@ function HeaderImage() {
                 'hidden max-w-none select-none',
                 'lg:block',
                 'dark:brightness-[.82]',
-                'transition-[filter] duration-300 rounded-2xl'
+                'rounded-2xl transition-[filter] duration-300'
               )}
               quality={95}
               priority

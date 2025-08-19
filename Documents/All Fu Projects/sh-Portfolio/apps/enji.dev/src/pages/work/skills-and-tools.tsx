@@ -72,7 +72,7 @@ export default function SkillsAndTools() {
   return (
     <>
       <Head
-      ogImage=''
+        ogImage=""
         title="Skills and Tools"
         description="A comprehensive look at my technical skills, tools, and expertise in web development."
       />
@@ -102,7 +102,9 @@ export default function SkillsAndTools() {
               I started my career as a web developer in 2021. I&apos;ve explored
               various programming languages and tech stacks across Back-End,
               Mobile, and Front-End development, with a strong focus on
-              Front-End and Mobile Development. I'm currently learning Computer Science at Jamhuriya Science and Technology University in Banadir, Mogadishu, Somalia.
+              Front-End and Mobile Development. I&apos;m currently learning Computer
+              Science at Jamhuriya Science and Technology University in Banadir,
+              Mogadishu, Somalia.
             </p>
           </div>
 

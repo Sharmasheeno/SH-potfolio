@@ -14,12 +14,12 @@
  
  🌱 I’m currently learning **C++,Typescript and Java**
 
- 📚 Write's Blogs at **[Dev.to]()** and **[Hashnode]()**
+📚 Write's Blogs at **[Dev.to]()** and **[Hashnode]()**
 
- 💬 Ask me about **Node.js, React, Firebase, MongoDB... or anything [here]()**
+💬 Ask me about **Node.js, React, Firebase, MongoDB... or anything [here]()**
 
- ⚡ Fun fact **World first developer was a women**
- 
+⚡ Fun fact **World first developer was a women**
+
  </div>
  
 <div align="center"> 
@@ -63,8 +63,8 @@
 </div>
 
 <br/><br/>
-<hr/>
 
+<hr/>
 
 <h3 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+Shoot+me+a+message+on+Linkedin!;I'm+always+down+to+collab+:)">
@@ -72,6 +72,3 @@
 
 <br/>
 <hr/>
-
-
-
